@@ -1,0 +1,3 @@
+Main-Class: ru.ifmo.ctddev.berdnikov.implementor.Implementor
+Class-Path: ImplementorTest.jar
+
